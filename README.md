@@ -6,3 +6,4 @@ Dummy repo for commits
 # Test commit4
 # Test commit5
 # Test commit6
+# Test commit7
